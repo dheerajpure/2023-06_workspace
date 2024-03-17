@@ -1,12 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d809cd0d-36a7-4b7a-b7d9-8779ac42312a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/eg_threads/eg_02_callable/eg_02_demo_callable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/eg_2024_03_11_streams/EG_01_stream$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/eg_2024_03_11_streams/EG_01_stream$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/eg_2024_03_11_streams/EG_01_stream.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/eg_2024_03_11_streams/EG_01_stream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/eg_2024_03_11_streams/EG_02_stream.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/eg_2024_03_11_streams/EG_02_stream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/eg_2024_03_11_streams/EG_03_stream.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/eg_2024_03_11_streams/EG_03_stream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/eg_2024_03_11_streams/EG_04_stream.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/eg_2024_03_11_streams/EG_04_stream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/eg_2024_03_11_streams/EG_05_stream.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/eg_2024_03_11_streams/EG_05_stream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/eg_2024_03_11_streams/EG_06_stream_filter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/eg_2024_03_11_streams/EG_06_stream_filter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/eg_2024_03_11_streams/EG_07_stream_flter_map.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/eg_2024_03_11_streams/EG_07_stream_flter_map.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/eg_2024_03_11_streams/EG_08_stream_flter_map_meaningful_Example.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/eg_2024_03_11_streams/EG_08_stream_flter_map_meaningful_Example.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/eg_2024_03_11_streams/ToyAdventure.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/eg_2024_03_11_streams/ToyAdventure.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/youtube_downloader/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/youtube_downloader/YTD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/youtube_downloader/YTD_01$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/youtube_downloader/YTD_01$VGetStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/youtube_downloader/YTD_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/youtube_downloader/YouTubeDownloader.class" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,11 +89,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/eg_2024_03_11_streams/EG_08_stream_flter_map_meaningful_Example.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+            <state relative-caret-position="506">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/eg_threads/eg_01_runnable/eg_01_demo_thread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -110,15 +146,25 @@
         <option value="$PROJECT_DIR$/src/main/java/eg_2024_03_11_streams/EG_05_stream.java" />
         <option value="$PROJECT_DIR$/src/main/java/eg_2024_03_11_streams/EG_07_stream_flter_map.java" />
         <option value="$PROJECT_DIR$/src/main/java/eg_2024_03_11_streams/EG_08_stream_flter_map_meaningful_Example.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/threads/eg_runnable/threads/eg_callable/eg_01_demo_thread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/threads/eg_01_demo_thread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/threads/eg_runnable/eg_01_demo_thread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/eg_01_threads/eg_runnable/eg_01_demo_thread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/eg_threads/eg_01_runnable/eg_01_demo_thread.java" />
       </list>
     </option>
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1940" />
     <option name="height" value="1100" />
   </component>
+  <component name="ProjectId" id="2dpTowY01jadABtCVO3rcRjZnc7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -159,6 +205,23 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="eg_2024_03_11_streams" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="youtubedownloader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2023-06_workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="eg_threads" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youtubedownloader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2023-06_workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="eg_threads" type="462c0819:PsiDirectoryNode" />
+              <item name="eg_01_runnable" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -166,11 +229,25 @@
       <pane id="PackagesPane" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.eg_01_demo_thread.executor": "Run",
+    "Application.eg_02_demo_callable.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/dheeraj/tech/workspaces/2023-06_workspace"
+  }
+}]]></component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="eg_2024_03_11_streams" />
     </key>
@@ -178,45 +255,7 @@
       <recent name="C:\dheeraj\tech\workspaces\2023-06_workspace\src\main\java" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.EG_08_stream_flter_map_meaningful_Example">
-    <configuration name="EG_02_stream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="eg_2024_03_11_streams.EG_02_stream" />
-      <module name="2023-06_workspace" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="eg_2024_03_11_streams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EG_05_stream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="eg_2024_03_11_streams.EG_05_stream" />
-      <module name="2023-06_workspace" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="eg_2024_03_11_streams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.eg_02_demo_callable">
     <configuration name="EG_06_stream_filter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="eg_2024_03_11_streams.EG_06_stream_filter" />
       <module name="2023-06_workspace" />
@@ -256,16 +295,43 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="eg_01_demo_thread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eg_threads.eg_01_runnable.eg_01_demo_thread" />
+      <module name="youtube-downloader" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eg_threads.eg_01_runnable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eg_02_demo_callable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eg_threads.eg_02_callable.eg_02_demo_callable" />
+      <module name="youtube-downloader" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eg_threads.eg_02_callable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.eg_02_demo_callable" />
+        <item itemvalue="Application.eg_01_demo_thread" />
         <item itemvalue="Application.EG_08_stream_flter_map_meaningful_Example" />
         <item itemvalue="Application.EG_07_stream_flter_map" />
         <item itemvalue="Application.EG_06_stream_filter" />
-        <item itemvalue="Application.EG_05_stream" />
-        <item itemvalue="Application.EG_02_stream" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -284,29 +350,51 @@
       <option name="project" value="LOCAL" />
       <updated>1710700286627</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial commit">
+      <created>1710700665096</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710700665096</updated>
+    </task>
+    <task id="LOCAL-00003" summary="initial commit">
+      <created>1710700724424</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710700724424</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="786" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21543624" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2181208" />
+      <window_info id="Structure" order="1" sideWeight="0.2164009" side_tool="true" weight="0.3281879" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Version Control" order="7" weight="0.3281879" />
+      <window_info id="Favorites" order="6" sideWeight="0.2164009" side_tool="true" weight="0.3281879" />
+      <window_info id="Version Control" order="7" sideWeight="0.7835991" weight="0.3281879" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.29357797" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="TODO" order="6" visible="true" weight="0.32874617" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32874617" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.32917964" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.32721713" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -322,6 +410,26 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/eg_threads/eg_01_runnable/eg_01_demo_thread.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/eg_threads/eg_02_callable/eg_02_demo_callable.java</url>
+          <line>11</line>
+          <properties class="eg_threads.eg_02_callable.eg_02_demo_callable" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$MAVEN_REPOSITORY$/com/github/axet/vget/1.1.33/vget-1.1.33.jar!/com/github/axet/vget/VGet.class" />
@@ -345,14 +453,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-14.0.1/lib/src.zip!/java.base/java/util/function/Consumer.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-14.0.1/lib/src.zip!/java.base/java/util/function/Consumer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="44" column="53" lean-forward="true" selection-start-line="44" selection-start-column="53" selection-end-line="44" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-14.0.1/lib/src.zip!/java.base/java/lang/Iterable.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-14.0.1/lib/src.zip!/java.base/java/lang/Iterable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="71" column="28" lean-forward="true" selection-start-line="71" selection-start-column="28" selection-end-line="71" selection-end-column="28" />
@@ -418,8 +526,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/eg_2024_03_11_streams/EG_08_stream_flter_map_meaningful_Example.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        <state relative-caret-position="506">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/eg_threads/eg_01_runnable/eg_01_demo_thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
