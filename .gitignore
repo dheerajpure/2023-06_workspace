@@ -3,3 +3,6 @@ target/
 
 # Ignore .class files
 *.class
+/.idea/workspace.xml
+
+/.idea
